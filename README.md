@@ -29,11 +29,11 @@ LanguageTool requires Java 17+:
 
 !apt-get install openjdk-17-jre-headless
 ▶️ Run the App
-python app.py
+python app.ipynb
 Then open the link shown in your terminal to access the interface.
 
 📁 Project Structure
-├── app.py                 # Main application code
+├── app.ipynb                 # Main application code
 └── README.md              # Project documentation
 🧠 How It Works
 You upload a voice sample.
